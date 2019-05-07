@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: agschaid.reactivepg
+---
+testFramework: junit
+sourceLanguage: java

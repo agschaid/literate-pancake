@@ -1,2 +1,4 @@
 # literate-pancake
-Just a little Micronaut project do demonstrate an eror case in the reactiverse reactive-pg-client
+Just a little Micronaut project do demonstrate an eror case in the reactiverse reactive-pg-client.
+
+See [this issue](https://github.com/reactiverse/reactive-pg-client/issues/270).
